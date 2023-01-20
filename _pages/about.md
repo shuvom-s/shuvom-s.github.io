@@ -16,17 +16,26 @@ In the past, I've worked on statistical genetics, genomic privacy, and computati
 Outside of work, I enjoy hiking, biking, and rooting for New England sports teams.
 
 ## Publications
-* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models**[[Link]](http://recomb2023.bilkent.edu.tr/program.html)
+* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](http://recomb2023.bilkent.edu.tr/program.html)
+
 Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho
+
 Research in Computational Molecular Biology Conference (RECOMB) 2023 (Accepted)
 
+
 * **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)
+
 Harry Pirie, Shuvom Sadhuka, Jennifer Wang, Radu Andrei, Jennifer Hoffman
+
 Physical Review Letters 2022
 
-* **•	Leveraging Supervised Learning for Functionally Informed Fine-Mapping of cis-eQTLs Identifies and Additional 20,913 Putative Causal eQTLs** [[Link]](https://www.nature.com/articles/s41467-021-23134-8)
+
+* **Leveraging Supervised Learning for Functionally Informed Fine-Mapping of cis-eQTLs Identifies and Additional 20,913 Putative Causal eQTLs** [[Link]](https://www.nature.com/articles/s41467-021-23134-8)
+
 Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cui, Carlos Albors, Nathan Cheng, Yukinori Okada, Biobank Japan Project, François Aguet, Kristin Ardlie, Daniel MacArthur, Hilary Finucane
+
 Nature Communications 2021
+
 
 ## Teaching
 * Teaching Assistant for [CS 124](https://toc.seas.harvard.edu/links/cs-124-data-structures-and-algorithms): Data Structures and Algorithms, taught by Prof. Michael Mitzenmacher and Dr. Adam Hesterberg, Harvard, Spring 2021 and Spring 2022
