@@ -16,24 +16,18 @@ In the past, I've worked on statistical genetics, genomic privacy, and computati
 Outside of work, I enjoy hiking, biking, and rooting for New England sports teams.
 
 ## Publications
-* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](http://recomb2023.bilkent.edu.tr/program.html)
-
-Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho
-
+* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](http://recomb2023.bilkent.edu.tr/program.html)\
+Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho\
 Research in Computational Molecular Biology Conference (RECOMB) 2023 (Accepted)
 
 
-* **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)
-
-Harry Pirie, Shuvom Sadhuka, Jennifer Wang, Radu Andrei, Jennifer Hoffman
-
+* **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)\
+Harry Pirie, Shuvom Sadhuka, Jennifer Wang, Radu Andrei, Jennifer Hoffman\
 Physical Review Letters 2022
 
 
-* **Leveraging Supervised Learning for Functionally Informed Fine-Mapping of cis-eQTLs Identifies and Additional 20,913 Putative Causal eQTLs** [[Link]](https://www.nature.com/articles/s41467-021-23134-8)
-
-Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cui, Carlos Albors, Nathan Cheng, Yukinori Okada, Biobank Japan Project, François Aguet, Kristin Ardlie, Daniel MacArthur, Hilary Finucane
-
+* **Leveraging Supervised Learning for Functionally Informed Fine-Mapping of cis-eQTLs Identifies and Additional 20,913 Putative Causal eQTLs** [[Link]](https://www.nature.com/articles/s41467-021-23134-8)\
+Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cui, Carlos Albors, Nathan Cheng, Yukinori Okada, Biobank Japan Project, François Aguet, Kristin Ardlie, Daniel MacArthur, Hilary Finucane\
 Nature Communications 2021
 
 
@@ -45,15 +39,15 @@ Nature Communications 2021
 
 ## Leadership and Outreach
 I am committed to both seeing my work directly impact others and helping others enter and accelerate in computer science and biology.
-* [Non-resident Tutor](https://mather.harvard.edu/people/shuvom-sadhuka), Mather House (Harvard University)
+* [Non-resident Tutor](https://mather.harvard.edu/people/shuvom-sadhuka), Mather House (Harvard University)\
 I am a fellowships tutor for Mather House. In this role, I assist students applying to fellowships
 and graduate programs. I help strategize essays and personal statements for a variety of
 fellowships (Rhodes, Marshall, Hertz, Soros, etc.). I also hold office hours and study breaks.
-* Mentor, [MIT EECS GAAP](https://eecs-gaap.mit.edu/)
+* Mentor, [MIT EECS GAAP](https://eecs-gaap.mit.edu/)\
 I mentor students applying to the MIT EECS PhD program. I assist with crafting and strategizing personal essays, interviews, etc.
-* Organizer and Founder, [CS Reading Group](https://csreadinggroup.github.io/)
+* Organizer and Founder, [CS Reading Group](https://csreadinggroup.github.io/)\
 Over COVID, I organized a remote weekly reading groups for undergraduates from multiple universities. We read papers across many CS disciplines: ML, systems, data structures, etc. We also invited and organized speakers from Stanford, the Broad Institute, Google, etc.
-* Co-captain, Harvard College Bhangra
+* Co-captain, Harvard College Bhangra\
 I was a co-captain of Harvard’s only competitive South Asian dance team for two years. I designed choreo, led collaborations, coordinated practice and performance logistics, managed funding, etc.
 
 
