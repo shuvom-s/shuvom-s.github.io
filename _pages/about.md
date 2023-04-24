@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [EECS](https://www.eecs.mit.edu/) at MIT. I am co-advised by [Bonnie Berger](https://people.csail.mit.edu/bab/) (MIT CSAIL). I am broadly interested in privacy, fairness and machine learning, especially in their application to biomedical problems. 
+I am a first-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/) (MIT CSAIL). I am broadly interested in privacy, fairness and machine learning, especially in their application to biomedical problems. 
 
 Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. 
 In the past, I've worked on statistical genetics, genomic privacy, and computational physics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). 
@@ -18,7 +18,7 @@ Outside of work, I enjoy hiking, biking, and rooting for New England sports team
 ## Publications
 * **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](http://recomb2023.bilkent.edu.tr/program.html)\
 Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho\
-Research in Computational Molecular Biology Conference (RECOMB) 2023 (Accepted)
+Genome Research 2023 (Accepted), and oral presentation at Research in Computational Molecular Biology Conference (RECOMB) 2023 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.04.13.536784v1)
 
 
 * **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)\
