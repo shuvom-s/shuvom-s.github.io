@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/) (MIT CSAIL). I am broadly interested in privacy, fairness and machine learning, especially in their application to biomedical problems. 
+I am a first-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT CSAIL. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I am broadly interested in privacy, fairness and machine learning, especially in their application to biomedical problems. 
 
 Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. 
 In the past, I've worked on statistical genetics, genomic privacy, and computational physics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). 
@@ -31,7 +31,7 @@ Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cu
 Nature Communications 2021
 
 
-## Teaching
+<!-- ## Teaching
 * Teaching Assistant for [CS 124](https://toc.seas.harvard.edu/links/cs-124-data-structures-and-algorithms): Data Structures and Algorithms, taught by Prof. Michael Mitzenmacher and Dr. Adam Hesterberg, Harvard, Spring 2021 and Spring 2022
 * Teaching Asssistant for MCB 112: Biological Data Analysis, taught by Prof. Sean Eddy, Harvard, Fall 2020
 * Teaching Assistant for Stat 111: Introduction to Statistical Inference, taught by Prof. Joe Blitzstein and Prof. Neil Shepard, Harvard, Spring 2020
@@ -48,7 +48,7 @@ I mentor students applying to the MIT EECS PhD program. I assist with crafting a
 * Organizer and Founder, [CS Reading Group](https://csreadinggroup.github.io/)\
 Over COVID, I organized a remote weekly reading groups for undergraduates from multiple universities. We read papers across many CS disciplines: ML, systems, data structures, etc. We also invited and organized speakers from Stanford, the Broad Institute, Google, etc.
 * Co-captain, Harvard College Bhangra\
-I was a co-captain of Harvard’s only competitive South Asian dance team for two years. I designed choreo, led collaborations, coordinated practice and performance logistics, managed funding, etc.
+I was a co-captain of Harvard’s only competitive South Asian dance team for two years. I designed choreo, led collaborations, coordinated practice and performance logistics, managed funding, etc. -->
 
 
 <!---
