@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT CSAIL. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I am broadly interested in privacy, fairness and machine learning, especially in their application to biomedical problems. 
+I am a second-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT CSAIL. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I am broadly interested in privacy and fairness in AI and machine learning, especially in biomedical problems. 
 
 Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. 
 In the past, I've worked on statistical genetics, genomic privacy, and computational physics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). 
