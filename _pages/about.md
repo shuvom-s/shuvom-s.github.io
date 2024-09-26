@@ -38,16 +38,13 @@ Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cu
 Nature Communications 2021
 
 ## Other (Random) Writing
-* **Fellowship advice** [[Link]](https://docs.google.com/document/d/1GDaX-GTaj1D1Bv1K1iRrilH5H8KSryyZIlSJPFcC5x0/edit?usp=sharing)
-S. Sadhuka
+* **Fellowship advice** [[Link]](https://docs.google.com/document/d/1GDaX-GTaj1D1Bv1K1iRrilH5H8KSryyZIlSJPFcC5x0/edit?usp=sharing)\
 Some advice on applying for graduate fellowships!
 
-* **Overcoming the False Tradeoff in Genomics: Privacy and Collaboration** [[Link]](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf)
-S. Sadhuka
+* **Overcoming the False Tradeoff in Genomics: Privacy and Collaboration** [[Link]](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf)\
 Honorable Mention at MIT Envisioning the Future of Computing Essay Prize 2023
 
-* **Does the new NBA Draft Lottery Systems Really Discourage Tanking?** [[Link]](https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/)
-S. Sadhuka
+* **Does the new NBA Draft Lottery Systems Really Discourage Tanking?** [[Link]](https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/)\
 Harvard Sports Analysis Collective 2019
 
 
