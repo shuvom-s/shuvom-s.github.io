@@ -8,17 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT CSAIL. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I am broadly interested in responsible AI and privacy, especially in biomedical problems. 
+I am a third-year PhD student in [Computer Science](https://www.eecs.mit.edu/) at MIT CSAIL. I am advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I also collaborate closely with [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). I am broadly interested in machine learning and decision-making, especially in biomedical and healthcare problems. I am particularly interested in how we can make decisions in high-stakes healthcare settings in the real world, where datasets are noisy, sparsely labeled, and replete with biases. Particular problem areas of interest include:
 
-Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. 
-In the past, I've worked on statistical genetics, genomic privacy, and computational physics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). 
+* Sequential decision-making: how can we build models for chained sequences of human decisions when some outcomes are censored as a result of those decisions? For instance, one cannot observe a cancer diagnosis unless the individual passes through several rounds of screening.
+* Uncertainty quantification and calibration: how can we quantify uncertainty over predictions in an efficient and correct way? Are there tradeoffs between calibration and optimal (downstream) decision-making in the clinic?
+* Evaluations: how can we evaluate the best model for a task given constraints on resources (e.g. few labels)?
 
-Outside of work, I enjoy hiking, biking, and rooting for New England sports teams. I am always happy to chat, feel free to reach out via email at ssadhuka (at) mit (dot) edu.
+Prior to MIT, I was an undergraduate at Harvard, where I received an AB in Computer Science and Statistics. Towards the beginning of my PhD and end of undergrad, I worked on biomedical data privacy. Prior to that, I worked on statistical genetics and computational physics. I am fortunate to be supported by the [Hertz Foundation Fellowship](https://www.hertzfoundation.org/person/shuvom-sadhuka/) and [NSF Fellowship](https://www.nsfgrfp.org/). 
 
-## Publications
-* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](http://recomb2023.bilkent.edu.tr/program.html)\
+Outside of work, I enjoy hiking, biking, and rooting for New England sports teams. Hit me up if you're in Boston and want to join on weekend bike rides. I am always happy to chat, feel free to reach out via email at ssadhuka (at) mit (dot) edu.
+
+## Publications (\* denotes equal contribution)
+* **Privacy-Enhancing Technologies in Biomedical Data Science** \
+H. Cho, D. Froelicher\*, N. Dokmai\*, A. Nandi\*, S. Sadhuka\*, M. Hong\*, B. Berger\
+Annual Reviews of Biomedical Data Science 2024 [[Link]](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-120423-120107)
+
+* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** \
 Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho\
-Genome Research 2023 (Accepted), and oral presentation at Research in Computational Molecular Biology Conference (RECOMB) 2023 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.04.13.536784v1)
+Genome Research 2023 and oral presentation at Research in Computational Molecular Biology Conference (RECOMB) 2023 [[Link]](https://genome.cshlp.org/content/33/7/1101.full.pdf)
 
 
 * **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)\
@@ -29,6 +36,20 @@ Physical Review Letters 2022
 * **Leveraging Supervised Learning for Functionally Informed Fine-Mapping of cis-eQTLs Identifies and Additional 20,913 Putative Causal eQTLs** [[Link]](https://www.nature.com/articles/s41467-021-23134-8)\
 Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cui, Carlos Albors, Nathan Cheng, Yukinori Okada, Biobank Japan Project, François Aguet, Kristin Ardlie, Daniel MacArthur, Hilary Finucane\
 Nature Communications 2021
+
+## Other (Random) Writing
+* **Fellowship advice** [[Link]](https://docs.google.com/document/d/1GDaX-GTaj1D1Bv1K1iRrilH5H8KSryyZIlSJPFcC5x0/edit?usp=sharing)
+S. Sadhuka
+Some advice on applying for graduate fellowships!
+
+* **Overcoming the False Tradeoff in Genomics: Privacy and Collaboration** [[Link]](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf)
+S. Sadhuka
+Honorable Mention at MIT Envisioning the Future of Computing Essay Prize 2023
+
+* **Does the new NBA Draft Lottery Systems Really Discourage Tanking?** [[Link]](https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/)
+S. Sadhuka
+Harvard Sports Analysis Collective 2019
+
 
 
 <!-- ## Teaching
