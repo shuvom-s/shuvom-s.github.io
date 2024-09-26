@@ -21,13 +21,13 @@ Outside of work, I enjoy hiking, biking, and rooting for New England sports team
 ## Publications (\* denotes equal contribution)
 (Working papers and preprints listed in CV)
 
-* **Privacy-Enhancing Technologies in Biomedical Data Science** \
+* **Privacy-Enhancing Technologies in Biomedical Data Science** [[Link]](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-120423-120107)\
 H. Cho, D. Froelicher\*, N. Dokmai\*, A. Nandi\*, S. Sadhuka\*, M. Hong\*, B. Berger\
-Annual Reviews of Biomedical Data Science 2024 [[Link]](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-120423-120107)
+Annual Reviews of Biomedical Data Science 2024 
 
-* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** \
+* **Accurate Evaluation of Transcriptomic Re-identification Risks Using Discriminative Sequence Models** [[Link]](https://genome.cshlp.org/content/33/7/1101.full.pdf) \
 Shuvom Sadhuka, Daniel Fridman, Bonnie Berger, Hyunghoon Cho\
-Genome Research 2023 and oral presentation at Research in Computational Molecular Biology Conference (RECOMB) 2023 [[Link]](https://genome.cshlp.org/content/33/7/1101.full.pdf)
+Genome Research 2023 and oral presentation at Research in Computational Molecular Biology Conference (RECOMB) 2023 
 
 
 * **Topological Phononic Logic** [[Link]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.015501)\
@@ -40,13 +40,13 @@ Qingbo Wang, David Kelley, Jacob Ulrisch, Masahiro Kanai, Shuvom Sadhuka, Ran Cu
 Nature Communications 2021
 
 ## Other (Random) Writing
-* **Fellowship advice** [[Link]](https://docs.google.com/document/d/1GDaX-GTaj1D1Bv1K1iRrilH5H8KSryyZIlSJPFcC5x0/edit?usp=sharing)\
+* **Fellowship Advice** [[Link]](https://docs.google.com/document/d/1GDaX-GTaj1D1Bv1K1iRrilH5H8KSryyZIlSJPFcC5x0/edit?usp=sharing)\
 Some advice on applying for graduate fellowships!
 
 * **Overcoming the False Tradeoff in Genomics: Privacy and Collaboration** [[Link]](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf)\
 Honorable Mention at MIT Envisioning the Future of Computing Essay Prize 2023
 
-* **Does the new NBA Draft Lottery Systems Really Discourage Tanking?** [[Link]](https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/)\
+* **Does the New NBA Draft Lottery Systems Really Discourage Tanking?** [[Link]](https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/)\
 Harvard Sports Analysis Collective 2019
 
 
