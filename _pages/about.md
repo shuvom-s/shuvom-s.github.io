@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-## Website under construction (check back soon!)
+## New website under construction (check back soon!)
 
 I am a Computer Science PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). Broadly, I am interested in evaluation and measurement of and with ML, especially in health and biomedicine. To me, evaluation is a two-way street:
 
