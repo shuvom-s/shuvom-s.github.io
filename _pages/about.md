@@ -30,10 +30,10 @@ latest_posts:
 
 I am a Computer Science PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). Broadly, I am interested in evaluation and measurement of and with ML, especially in health and biomedicine. To me, evaluation is a two-way street:
 
-1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and using ML to model sequences of clinical decisions.
-2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've been investigating how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1).
+1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making.
+2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've been investigating how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and am more broadly interested in how to develop proper evaluations.
 
-I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [](https://ibm.mit.edu/).
+I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://ibm.mit.edu/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
