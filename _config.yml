@@ -204,7 +204,7 @@ exclude:
   - _pages/teaching.md
   - _pages/publications.md # TODO: remove this once we have a better way to handle publications
   - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
-  - _pages/people.md # TODO: remove this once we have a better way to handle people
+  - _pages/profiles.md # TODO: remove this once we have a better way to handle people
 keep_files:
   - CNAME
   - .nojekyll
