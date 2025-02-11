@@ -198,7 +198,8 @@ exclude:
   - _pages/news.md
   - _posts/
   - _pages/repositories.md
-  - _pages/people.md
+  # - _pages/people.md
+  - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/cv.md
   - _pages/teaching.md
