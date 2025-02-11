@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: log(0) # blog_name will be displayed in your blog page
+blog_description: Random thoughts and musings
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -123,8 +123,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: harvardsportsanalysis.org
+    posts:
+      - url: https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking/
+        published_date: 2019-06-20
   - name: Google Blog
     posts:
       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
