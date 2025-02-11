@@ -198,12 +198,13 @@ exclude:
   - _pages/news.md
   - _posts/
   - _pages/repositories.md
-  - _pages/people.md
+  # - _pages/people.md
   - _pages/dropdown.md
   - _pages/cv.md
   - _pages/teaching.md
   - _pages/publications.md # TODO: remove this once we have a better way to handle publications
   - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
+  - _pages/people.md # TODO: remove this once we have a better way to handle people
 keep_files:
   - CNAME
   - .nojekyll
