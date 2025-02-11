@@ -202,6 +202,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/cv.md
   - _pages/teaching.md
+  - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
 keep_files:
   - CNAME
   - .nojekyll
