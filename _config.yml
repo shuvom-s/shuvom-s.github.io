@@ -650,3 +650,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+# Add cv to navigation elements
+nav_order: [about, blog, projects, cv]
