@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: b log(a) # blog_name will be displayed in your blog page
-blog_description: A collection of (some) writings over the years
+blog_description: A collection of (some) writings over the years. I've migrated from platform to platform over the years, and this is my attempt to consolidate them.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -124,10 +124,11 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Overcoming the False Trade-off in Genomics: Privacy and Collaboration
+  - name: Google Blog
     posts:
-      - url: https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf
-        published_date: 2023-06-01
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
+  
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -195,12 +196,12 @@ exclude:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/news.md
-  - _posts/
+  # - _posts/
   - _pages/repositories.md
   # - _pages/people.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  # - _pages/cv.md
+  - _pages/cv.md
   - _pages/teaching.md
   - _pages/publications.md # TODO: remove this once we have a better way to handle publications
   - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
