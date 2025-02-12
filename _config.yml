@@ -122,6 +122,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
+    posts:
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
   - name: Overcoming the False Trade-off in Genomics: Privacy and Collaboration
     posts:
       - url: https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf
@@ -198,7 +204,7 @@ exclude:
   # - _pages/people.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _pages/teaching.md
   - _pages/publications.md # TODO: remove this once we have a better way to handle publications
   - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
