@@ -125,10 +125,10 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: Harvard Sports Analysis Collective
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://harvardsportsanalysis.org/2019/06/does-the-new-nba-draft-lottery-system-really-discourage-tanking//
+        published_date: 2019-06-20
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -201,7 +201,7 @@ exclude:
   # - _pages/people.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _pages/teaching.md
   - _pages/publications.md # TODO: remove this once we have a better way to handle publications
   - _news/announcement_*.md # TODO: remove this once we have a better way to handle announcements
@@ -305,10 +305,10 @@ scholar:
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+  dimensions: false # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  inspirehep: false # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -650,6 +650,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-# Add cv to navigation elements
-nav_order: [about, blog, projects, cv]

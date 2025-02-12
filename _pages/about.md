@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MIT CSAIL.
+# subtitle: MIT CSAIL.
 
 profile:
   align: right
