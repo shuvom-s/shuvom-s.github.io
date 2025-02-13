@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overcoming the False Trade-off in Genomics: Privacy and Collaboration
+title: Overcoming the False Trade-off in Genomics
 date: 2023-06-01 
 description: Does privacy have to be at odds with collaboration in biomedical research?
 tags: genomics privacy law
@@ -8,6 +8,7 @@ categories: sample-posts
 giscus_comments: true
 thumbnail: assets/img/ethics.png
 ---
+
 Note: This post was originally published for MIT's [Envision the Future of Computing Prize](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf), where it won an honorable mention.
 
 On June 26, 2000, President Bill Clinton and Prime Minister Tony Blair jointly announced to the world that the first draft of the human genome had been completed. Speaking with unfettered optimism on the implications of Human Genome Project (HGP), President Clinton [declared](https://archive.nytimes.com/www.nytimes.com/library/national/science/062700sci-genome-text.html):
