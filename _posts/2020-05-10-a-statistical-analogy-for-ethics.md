@@ -8,6 +8,7 @@ categories: sample-posts
 giscus_comments: true
 thumbnail: assets/img/ethics.png
 ---
+Note: This post was originally published on [my old blog](https://randomquadwalks.com/2020/05/10/a-statistical-analogy-for-ethics/).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
