@@ -27,6 +27,28 @@ ninja.data = [{
           window.location.href = "/blog/2025/measuring-entropy/";
         
       },
+    },{id: "post-measuring-entropy",
+      
+        title: "Measuring Entropy",
+      
+      description: "How would you measure the entropy of natural language?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/advice-on-applying-to-fellowships/";
+        
+      },
+    },{id: "post-a-running-list-of-writing-ideas",
+      
+        title: "A running list of writing ideas",
+      
+      description: "Things I want to write (and read) about",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/my-thoughts/";
+        
+      },
     },{id: "post-overcoming-the-false-trade-off-in-genomics",
       
         title: "Overcoming the False Trade-off in Genomics",
