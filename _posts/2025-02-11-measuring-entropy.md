@@ -2,7 +2,7 @@
 layout: post
 title: Measuring Entropy
 date: 2025-02-11 21:01:00
-description: How would we measure the entropy of natural language?
+description: How would you measure the entropy of natural language?
 tags: statistics language-models entropy genomics
 categories: sample-posts
 giscus_comments: true
