@@ -71,6 +71,17 @@ ninja.data = [{
           window.location.href = "/blog/2020/a-statistical-analogy-for-ethics/";
         
       },
+    },{id: "post-ramblings-on-inference-and-doubt",
+      
+        title: "Ramblings on Inference and Doubt",
+      
+      description: "Is empiricism infallible?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2018/ramblings/";
+        
+      },
     },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
