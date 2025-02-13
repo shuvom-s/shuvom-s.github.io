@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/2023-06-01-overcoming-the-false-tradeoff/";
-        
-      },
-    },{id: "post-measuring-entropy",
+        },{id: "post-measuring-entropy",
       
         title: "Measuring Entropy",
       
@@ -36,6 +25,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/measuring-entropy/";
+        
+      },
+    },{id: "post-overcoming-the-false-trade-off-in-genomics",
+      
+        title: "Overcoming the False Trade-off in Genomics",
+      
+      description: "Does privacy have to be at odds with collaboration in biomedical research?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/overcoming-the-false-tradeoff-in-genomics/";
         
       },
     },{id: "post-on-voting-paradoxes",
@@ -79,7 +79,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2018/ramblings/";
+          window.location.href = "/blog/2018/ramblings-on-inference-and-doubt/";
         
       },
     },{id: "projects-project-1",
