@@ -132,7 +132,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("shuvoms.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/shuvoms.bsky.social", "_blank");
         },
       },{
         id: 'social-scholar',
