@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Democracy and the Central Limit Theorem
-date: 2020-05-10 
+date: 2020-05-15 
 description: Is democracy just an average of preferences?
 tags: statistics ethics law
 categories: sample-posts
