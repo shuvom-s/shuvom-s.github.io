@@ -23,7 +23,7 @@ To start, let’s recall the definition of entropy (for discrete variables):
 
 $$H(X) = -\sum_{x \in A} p(x) \log_2 p(x)$$
 
-Intuitively, entropy measures the amount of uncertainty present in a random variable $X$. The highest entropy distribution over $X$ would be the uniform distribution, and the lowest entropy would be a point mass (with 0 entropy, since $\log(1) = 0$).
+Intuitively, entropy measures the amount of uncertainty present in a random variable $X$. The highest entropy distribution over $X$ would be the uniform distribution, and the lowest entropy would be a point mass (with 0 entropy, since $\log(1) = 0$). Distributions that are very sharply centered, for instance, will have a $\log_2$ term closer to 0 near their center of mass. 
 
 So if we want to measure the entropy of language, we’ll need to define two things: $A$, an alphabet we’ll measure over, and $p(x)$, a distribution over that alphabet. $A$ is fairly easy to define: the two natural approaches would be to let $A$ be characters (a, b, c, etc.) or words/tokens (the, ball, at, etc.). Let’s take $A$ to be words/tokens (like LLMs) for this post. The hard part is in estimating $p(x)$. We’ll call our estimate $q(x)$.
 
@@ -47,7 +47,7 @@ The key insight is that if we let $F_n = H_n - H_{n-1}$, i.e. the conditional en
 
 $$H(X) \overset{p}{=} \lim_{n \rightarrow \infty} -\frac{1}{n} p(x_1, …, x_n)$$
 
-There’s a catch to the theorem above that is worth noting. The theorem only holds for stationary ergodic processes (i.e., there exists a stationary distribution), but it’s clear that English (or more generally any language) is constantly evolving, as new words are added, old words become obsolete, and writing styles evolve.
+There’s a catch to the theorem above that is worth noting. The theorem only holds for stationary ergodic processes (i.e., there exists a stationary distribution), but it’s clear that English (or more generally any language) is constantly evolving, as new words are added, old words become obsolete, and writing styles evolve. The entropy of English today will change tomorrow, because new words are invented all the time, for instance.
 
 ## A Thorny Qualm
 The above approximation is neat but something still feels wrong to me. In some sense, the entropy of English is lower bounded by the number of plausible ideas there are in the world. That is, there are two layers in language, each of which has its own entropy:
@@ -79,7 +79,8 @@ But $p(x\|\\text{idea})$ as measured by the outputs of some decoder is probably 
 
 I’ve thought of variants of the above questions in human genetics as well. If we wanted to estimate the entropy of the human genome, a naive lower bound would be something like $\log_2(\text{total humans who have ever lived})$ and a naive upper bound would be $\log_2(4^{3 \text{billion}})$ since there are 3 billion base pairs in the human genome.
 
-Both of these numbers are wildly off, though. The lower bound is clearly off because it changes every time someone is born (and it’ll be a long, long time before we observe two people with identical genomes).  The upper bound is off because most genes are under heavy evolutionary pressure, and a small string of mutations would kill the person.
+Both of these numbers are wildly off, though. The lower bound is clearly off because it changes every time someone is born (and it’ll be a long, long time before we observe two people with identical genomes).  The upper bound is off because many genes (e.g., heavily conserved genes) are under heavy evolutionary pressure, and a small string of mutations would kill the person. The observed variation in the human genome is smaller than 3 billion. For instance, the 1000 Genomes Project has catalogued [81 million SNPs](https://pmc.ncbi.nlm.nih.gov/articles/PMC9408407/) observed across 2,504 individuals. Even though 2,504 is a relatively small number, it tells us that most of the genome does not have significant variation across the population (e.g. minor allele frequency > 1%).
+
 
 Genomes come with the additional twist that unlike English, the N-gram model would need to have an enormously long context to begin to understand the scaling of entropy as a function of $N$. Still, though, I think it could be useful to look at the entropy of 1- to 10-grams in DNA sequences (or similar) and see what the trend looks like. Perhaps a future post.
 
