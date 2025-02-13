@@ -10,6 +10,13 @@ thumbnail: assets/img/doubt.png
 ---
 Note: This post was originally published on [my old blog on Quora](https://shuvom.quora.com/Ramblings-on-Inferences-and-Doubt). Please forgive my teenage edginess.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/doubt.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
 I’ve been contemplating over the past few months over religion, God’s existence (or non-existence), and the philosophical implications and underpinnings of free will and such. One school of thought that caught my attention was the Lokayata school of Vedic philosophy. I was introduced to this line of thought in Amartya Sen’s _The Argumentative Indian_ and found it compelling given its atheistic inclinations and grounding of all knowledge in empiricism, a feature rather uncommon in religious philosophies.
 
 Central to Lokayata philosophy is the constant questioning of all propositions and inferences. “No inference can be made without doubt,” is the motto of Lokayata and arguably the basis for most of its philosophical advances that follow. However, there seems to be an unavoidable paradox within: the statement itself seems to be an inference made from experience and perception but expresses itself without doubt.

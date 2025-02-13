@@ -7,6 +7,7 @@ tags: statistics language-models entropy genomics
 categories: blog-posts
 giscus_comments: true
 thumbnail: assets/img/entropy.png
+featured: true
 ---
 
 <div class="row mt-3">

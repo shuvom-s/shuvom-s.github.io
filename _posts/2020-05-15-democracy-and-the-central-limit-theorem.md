@@ -7,6 +7,7 @@ tags: statistics ethics law
 categories: sample-posts
 giscus_comments: true
 thumbnail: assets/img/twocandidate.png
+featured: true
 ---
 
 Note: This post was originally published on [my old blog](https://randomquadwalks.com/2020/05/15/democracy-and-the-central-limit-theorem/).
