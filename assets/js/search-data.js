@@ -27,6 +27,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/measuring-entropy/";
         
       },
+    },{id: "post-democracy-and-the-central-limit-theorem",
+      
+        title: "Democracy and the Central Limit Theorem",
+      
+      description: "Is democracy just an average of preferences?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/democracy-and-the-central-limit-theorem/";
+        
+      },
     },{id: "post-a-statistical-analogy-for-ethics",
       
         title: "A Statistical Analogy for Ethics",
