@@ -27,11 +27,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/measuring-entropy/";
         
       },
-    },{id: "post-measuring-entropy",
+    },{id: "post-fellowship-applications",
       
-        title: "Measuring Entropy",
+        title: "Fellowship Applications",
       
-      description: "How would you measure the entropy of natural language?",
+      description: "Advice on applying to fellowships",
       section: "Posts",
       handler: () => {
         
