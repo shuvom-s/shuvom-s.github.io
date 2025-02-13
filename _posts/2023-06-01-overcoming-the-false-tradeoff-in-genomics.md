@@ -6,7 +6,7 @@ description: Does privacy have to be at odds with collaboration in biomedical re
 tags: genomics privacy law
 categories: sample-posts
 giscus_comments: true
-thumbnail: assets/img/ethics.png
+thumbnail: assets/img/dnalock.png
 ---
 
 Note: This post was originally published for MIT's [Envision the Future of Computing Prize](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf), where it won an honorable mention.
