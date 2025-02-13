@@ -4,7 +4,7 @@ title: Ramblings on Inference and Doubt
 date: 2018-02-01
 description: Is empiricism infallible?
 tags: philosophy science
-categories: sample-posts
+categories: blog-posts
 giscus_comments: true
 thumbnail: assets/img/doubt.png
 ---

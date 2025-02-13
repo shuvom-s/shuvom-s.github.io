@@ -4,7 +4,7 @@ title: Overcoming the False Trade-off in Genomics
 date: 2023-06-01 
 description: Does privacy have to be at odds with collaboration in biomedical research?
 tags: genomics privacy law
-categories: sample-posts
+categories: blog-posts
 giscus_comments: true
 thumbnail: assets/img/dnalock.png
 ---

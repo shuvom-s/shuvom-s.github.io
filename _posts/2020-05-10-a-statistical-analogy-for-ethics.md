@@ -4,7 +4,7 @@ title: A Statistical Analogy for Ethics
 date: 2020-05-10 
 description: Reasoning about ethics via an analogy
 tags: statistics ethics law
-categories: sample-posts
+categories: blog-posts
 giscus_comments: true
 thumbnail: assets/img/ethics.png
 ---

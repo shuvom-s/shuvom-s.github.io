@@ -4,7 +4,7 @@ title: On Voting Paradoxes
 date: 2020-05-22
 description: Are our voting systems paradoxical?
 tags: statistics ethics law
-categories: sample-posts
+categories: blog-posts
 giscus_comments: true
 thumbnail: assets/img/pq.png
 ---
