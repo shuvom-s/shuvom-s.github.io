@@ -41,7 +41,7 @@ I’ve been slightly abusing notation here; technically the entropy we want to m
 
 $$H(X) = -E_p \log P(x_0|x_{-1}, x_{-2}, …)$$
 
-In other words, how much entropy is there in the distribution of the next word if I know all preceding words? These ideas and arguments have been thoroughly explored before, starting all the way from Claude Shannon himself in 1950 (shortly after he defined entropy in an earlier paper). I’d encourage you to read [his paper](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf) — it’s not very long and full of interesting insights. 
+In other words, how much entropy is there in the distribution of the next word if I know all preceding words? These ideas and arguments have been thoroughly explored before, starting all the way from Claude Shannon himself in 1951 (shortly after he defined entropy in an earlier paper). I’d encourage you to read [his paper](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf) — it’s not very long and full of interesting insights. 
 
 The key insight is that if we let $F_n = H_n - H_{n-1}$, i.e. the conditional entropy of the n-gram model given the (n-1)-gram model, then we get that $H(X) = \lim_{n \rightarrow \infty} F_n$. In practice, of course, there are no $\inf$-grams, so Shannon calculates $F_n$ for small $n$ and tries to extrapolate the curve to predict the limit. Nowadays, we can probably easily compute 7-, 8-, and 9-grams on a standard laptop using a large corpus of text, which could give us a better sense of this limit. This also relates to a more general theorem known as the Shannon-McMillan-Breiman theorem, which states that for discrete-time finite-valued (both true here) stochastic processes:
 
