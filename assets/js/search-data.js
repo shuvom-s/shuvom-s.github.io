@@ -38,6 +38,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/measuring-entropy/";
         
       },
+    },{id: "post-on-voting-paradoxes",
+      
+        title: "On Voting Paradoxes",
+      
+      description: "Are our voting systems paradoxical?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/on-voting-paradoxes/";
+        
+      },
     },{id: "post-democracy-and-the-central-limit-theorem",
       
         title: "Democracy and the Central Limit Theorem",
