@@ -5,8 +5,15 @@ date: 2025-02-11 21:01:00
 description: How would we measure the entropy of natural language?
 tags: statistics language-models entropy genomics
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+giscus_comments: true
+thumbnail: assets/img/entropy.png
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/entropy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Is the entropy of generations from a large language model an overestimate or underestimate of the true entropy of human language? How would one even measure the entropy of human language? The question itself is poorly defined, but in this post I’ll try to tackle what it might mean to measure the entropy of a language.
 
