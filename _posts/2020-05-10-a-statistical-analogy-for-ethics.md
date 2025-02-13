@@ -6,8 +6,14 @@ description: Reasoning about ethics via an analogy
 tags: statistics ethics law
 categories: sample-posts
 giscus_comments: true
-thumbnail: assets/img/entropy.png
+thumbnail: assets/img/ethics.png
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ethics.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 I’ve grown a little frustrated in how morality and moral law are often misused in public debate.
 
