@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Measuring Entropy
+title: Fellowship Applications
 date: 2024-10-21 21:01:00
-description: How would you measure the entropy of natural language?
+description: Advice on applying to fellowships
 tags: fellowships advice science
 categories: blog-posts
 giscus_comments: true
