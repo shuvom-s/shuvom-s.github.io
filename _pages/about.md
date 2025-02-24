@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). Broadly, I am interested in evaluation, uncertainty estimation, and decision-making, often in the context of biomedical problems. To me, evaluation is a two-way street:
+I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I also collaborate with [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/). Broadly, I am interested in evaluation, uncertainty estimation, and decision-making, often in the context of biomedical problems. To me, evaluation is a two-way street:
 
 1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making.
 2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've been investigating how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and am more broadly interested in how to develop proper evaluations.
