@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: me.png
+  image: newme.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>📍 Stata Center</p>
