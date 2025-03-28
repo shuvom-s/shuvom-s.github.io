@@ -33,6 +33,9 @@ I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail
 
 I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_jan25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
+## Non-research, non-writing projects
+A small [website](https://songembeddings.netlify.app/) to visualize embeddings of song lyrics for my own Spotify. Also includes a sparse autoencoder to interpret the embeddings.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
