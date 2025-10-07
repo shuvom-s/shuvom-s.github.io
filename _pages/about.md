@@ -9,7 +9,7 @@ profile:
   image: newme.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>📍 Stata Center</p>
+    <p>📍 SF</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -30,6 +30,8 @@ I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail
 
 1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making.
 2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've been investigating how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and am more broadly interested in how to develop proper evaluations.
+
+I am currently interning at [Genentech](https://www.gene.com/), where I am building statistical methods for sequentially monitoring AI agents with [Hanchen Wang](https://www.hanchenw.com/), [Aviv Regev](https://www.gene.com/scientists/our-scientists/aviv-regev), and [Clara Fannjiang](https://clarafy.github.io/).
 
 I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_oct25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
