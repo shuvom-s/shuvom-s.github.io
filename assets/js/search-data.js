@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-tracing-my-internet-footprint-and-vibe-coding",
-      
-        title: "Tracing My Internet Footprint and Vibe Coding",
-      
-      description: "Where does all my internet traffic go?",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/vibe-coding-and-traceroute/";
-        
-      },
-    },{id: "post-measuring-entropy",
+        },{id: "post-measuring-entropy",
       
         title: "Measuring Entropy",
       
