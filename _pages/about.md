@@ -33,7 +33,7 @@ I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail
 
 I am currently interning at [Genentech](https://www.gene.com/), where I am building statistical methods for sequentially monitoring AI agents with [Hanchen Wang](https://www.hanchenw.com/), [Aviv Regev](https://www.gene.com/scientists/our-scientists/aviv-regev), and [Clara Fannjiang](https://clarafy.github.io/).
 
-I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_oct25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
+I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_oct25_new.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
 ## Non-research, non-writing projects
 A small [website](https://songembeddings.netlify.app/) to visualize embeddings of song lyrics for my own Spotify. Also includes a sparse autoencoder to interpret the embeddings.
