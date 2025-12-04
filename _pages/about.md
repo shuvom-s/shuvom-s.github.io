@@ -28,12 +28,27 @@ latest_posts:
 
 I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I also collaborate with [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/). Broadly, I am interested in evaluation, uncertainty estimation, and decision-making, often in the context of biomedical problems. To me, evaluation is a two-way street:
 
-1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making.
-2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've investigated how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and am more broadly interested in how to develop proper evaluations.
+1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making [(link)](https://arxiv.org/abs/2511.11684).
 
-I am currently interning at [Genentech](https://www.gene.com/), where I am building statistical methods for sequentially monitoring AI agents with [Hanchen Wang](https://www.hanchenw.com/), [Aviv Regev](https://www.gene.com/scientists/our-scientists/aviv-regev), and [Clara Fannjiang](https://clarafy.github.io/).
+2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've investigated how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and repurposed sequential hypothesis testing ideas to verify agent trajectories [(link)](https://arxiv.org/abs/2512.03109).
 
-I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_oct25_new.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
+I previously interned at [Genentech](https://www.gene.com/), where I am built statistical methods for sequentially monitoring AI agents.
+
+I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_dec25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
+
+## Recent Work
+
+E-valuator: Reliable Agent Verifiers with Sequential Hypothesis Testing.
+_Shuvom Sadhuka_, Drew Prinster, Clara Fannjiang, Gabriele Scalia, Aviv Regev, Hanchen Wang
+[(Preprint)](https://arxiv.org/abs/2512.03109)
+
+A Bayesian Model for Multi-stage Censoring
+_Shuvom Sadhuka_, Sophia Lin, Bonnie Berger*, Emma Pierson*
+[(ML4H 2025)](https://arxiv.org/abs/2511.11684)
+
+Evaluating multiple models using labeled and unlabeled data
+Divya Shanmugam*, _Shuvom_Sadhuka*_, Manish Raghavan, John Guttag, Bonnie Berger, Emma Pierson
+[(NeurIPS 2025)](https://arxiv.org/abs/2501.11866)
 
 ## Non-research, non-writing projects
 A small [website](https://songembeddings.netlify.app/) to visualize embeddings of song lyrics for my own Spotify. Also includes a sparse autoencoder to interpret the embeddings.
