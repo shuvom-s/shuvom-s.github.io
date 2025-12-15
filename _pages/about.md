@@ -32,7 +32,7 @@ I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail
 
 2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've investigated how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and repurposed sequential hypothesis testing ideas to verify agent trajectories [(link)](https://arxiv.org/abs/2512.03109).
 
-I previously interned at [Genentech](https://www.gene.com/), where I am built statistical methods for sequentially monitoring AI agents.
+I previously interned at [Genentech](https://www.gene.com/), where I built statistical methods for sequentially monitoring AI agents.
 
 I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_dec25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
