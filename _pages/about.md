@@ -47,7 +47,7 @@ _Shuvom Sadhuka_, Sophia Lin, Bonnie Berger*, Emma Pierson*
 [(ML4H 2025)](https://arxiv.org/abs/2511.11684)
 
 Evaluating multiple models using labeled and unlabeled data.
-Divya Shanmugam*, _Shuvom Sadhuka*_, Manish Raghavan, John Guttag, Bonnie Berger, Emma Pierson
+Divya Shanmugam*, _Shuvom Sadhuka_*, Manish Raghavan, John Guttag, Bonnie Berger, Emma Pierson
 [(NeurIPS 2025)](https://arxiv.org/abs/2501.11866)
 
 ## Non-research, non-writing projects
