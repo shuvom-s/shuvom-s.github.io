@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-measuring-entropy",
+        },{id: "post-reading-list",
+      
+        title: "Reading List",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/reading-list/";
+        
+      },
+    },{id: "post-measuring-entropy",
       
         title: "Measuring Entropy",
       
