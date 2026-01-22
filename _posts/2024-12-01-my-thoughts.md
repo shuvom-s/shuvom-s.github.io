@@ -27,7 +27,7 @@ Here are some ideas I have that probably aren't worthy of a full research projec
     * I have lots of Strava data
 
 
-## Social Choice and Economcs
+## Social Choice and Economics
 * How can we aggregate human preferences?
     * How can we align ML systems if we can't aggregate human preferences properly?
 
