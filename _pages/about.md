@@ -9,7 +9,7 @@ profile:
   image: newme.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>📍 SF</p>
+    <p>📍 Boston/SF</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -50,8 +50,11 @@ Evaluating multiple models using labeled and unlabeled data.
 Divya Shanmugam\*, _Shuvom Sadhuka_\*, Manish Raghavan, John Guttag, Bonnie Berger, Emma Pierson
 [(NeurIPS 2025)](https://arxiv.org/abs/2501.11866)
 
-## Non-research, non-writing projects
-A small [website](https://songembeddings.netlify.app/) to visualize embeddings of song lyrics for my own Spotify. Also includes a sparse autoencoder to interpret the embeddings.
+## Other things you may find useful or interesting
+* I wrote a [blog post](https://shuvom-s.github.io/blog/2024/advice-on-applying-to-fellowships/) with tips for applying to graduate school fellowships.
+* I wrote an [essay](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf) on genomic privacy that won an honorable mention in an MIT Essay Contest.
+* I made a small [website](https://songembeddings.netlify.app/) to visualize embeddings of song lyrics for my own Spotify. Also includes a sparse autoencoder to interpret the embeddings.
+* 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
