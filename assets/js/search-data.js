@@ -20,11 +20,11 @@ ninja.data = [{
       
         title: "Reading List",
       
-      description: "",
+      description: "Some content I&#39;ve enjoyed",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/reading-list/";
+          window.location.href = "/blog/2025/reading-list/";
         
       },
     },{id: "post-measuring-entropy",
