@@ -34,13 +34,14 @@ I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail
 
 I previously interned at [Genentech](https://www.gene.com/), where I built statistical methods for sequentially monitoring AI agents [(paper)](https://arxiv.org/abs/2512.03109).
 
-I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_dec25.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
+I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_apr26.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
 ## Recent Work
 
 E-valuator: Reliable Agent Verifiers with Sequential Hypothesis Testing.
 _Shuvom Sadhuka_, Drew Prinster, Clara Fannjiang, Gabriele Scalia, Aviv Regev, Hanchen Wang
 [(Preprint)](https://arxiv.org/abs/2512.03109)
+[(Talk)](https://www.youtube.com/watch?v=Xxlhh019cWM).
 
 A Bayesian Model for Multi-stage Censoring.
 _Shuvom Sadhuka_, Sophia Lin, Bonnie Berger*, Emma Pierson*
