@@ -6,7 +6,7 @@ description: How would you measure the entropy of natural language?
 tags: statistics language-models entropy genomics
 categories: blog-posts
 giscus_comments: true
-thumbnail: assets/img/entropy.png
+thumbnail: assets/img/entropy.svg
 featured: true
 ---
 

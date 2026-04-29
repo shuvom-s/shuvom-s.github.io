@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading List
-date: 2025-02-11 21:01:00
+date: 2026-01-22 21:01:00
 description: Some content I've enjoyed
 tags: content lists reading
 categories: blog-posts
