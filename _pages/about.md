@@ -9,7 +9,7 @@ profile:
   image: newme.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>📍 Boston/SF</p>
+    <p>📍 </p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,13 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at MIT CSAIL, advised by [Bonnie Berger](https://people.csail.mit.edu/bab/). I also collaborate with [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/). Broadly, I am interested in reliable ML, with specific interests in evaluation, uncertainty quantification, and applications to biomedical problems. To me, evaluation is a two-way street:
+I am a PhD student at MIT CSAIL. Broadly, I am interested in reliable ML, with specific interests in evaluation, uncertainty quantification, and applications to biomedical problems. To me, evaluation is a two-way street:
 
 1. Develop and use new tools to evaluate human decision-makers and data. Some past and ongoing work includes evaluating privacy risks in "anonymous" genomic datasets [(link)](https://genome.cshlp.org/content/33/7/1101.full) and building Bayesian models of clinical decision-making [(link)](https://arxiv.org/abs/2511.11684).
 
 2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've investigated how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and repurposed sequential hypothesis testing ideas to verify agent trajectories [(link)](https://arxiv.org/abs/2512.03109).
 
-I previously interned at [Genentech](https://www.gene.com/), where I built statistical methods for sequentially monitoring AI agents [(paper)](https://arxiv.org/abs/2512.03109).
+
+This summer (2026), I interning at [Abridge](https://www.abridge.com/), where I will work on evals/measurement research for clinical AI models. I previously interned at [Genentech](https://www.gene.com/), where I built statistical methods for sequentially monitoring AI agents [(paper)](https://arxiv.org/abs/2512.03109).
 
 I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_apr26.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
