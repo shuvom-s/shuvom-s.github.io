@@ -33,9 +33,9 @@ I am a PhD student at MIT CSAIL. Broadly, I am interested in reliable ML, with s
 2. Develop new metrics and methods to analyze ML systems themselves. Given thorny issues in our data — noisy labels, sparse labels, and so on — it is unsurprising that evaluations of performance are often unreliable. On this front, I've investigated how to use _unlabeled_ data to estimate performance of models [(link)](https://arxiv.org/html/2501.11866v1) and repurposed sequential hypothesis testing ideas to verify agent trajectories [(link)](https://arxiv.org/abs/2512.03109).
 
 
-This summer (2026), I am interning at [Abridge](https://www.abridge.com/), where I will work on evals/measurement research for clinical AI models. I previously interned at [Genentech](https://www.gene.com/), where I worked on sequential hypothesis testing for evaluating AI agents.
+This summer (2026), I am interning at [Abridge](https://www.abridge.com/), where I will work on evals/measurement research for clinical AI models with [Alex Chouldechova](https://scholar.google.com/citations?user=uoDW9hkAAAAJ&hl=en) and [Michael Oberst](https://www.michaelkoberst.com/). I previously interned at [Genentech](https://www.gene.com/), where I worked on sequential hypothesis testing for evaluating AI agents.
 
-I am grateful for the support of the [Hertz Fellowship](https://www.hertzfellowship.org/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_apr26.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
+I am grateful for the support of the [Hertz Fellowship](https://www.hertzfoundation.org/hertz-fellowship/) and the [NSF GRFP](https://www.nsfgrfp.org/). You can find my CV [here](/assets/pdf/cv_apr26.pdf). I enjoy writing, and you can find my blog posts [here](/blog). You can contact me at ssadhuka [at] mit [dot] edu.
 
 ## Recent Work
 
