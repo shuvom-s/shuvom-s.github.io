@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revenge of the Worst Case
-date: 2025-02-11 21:01:00
+date: 2026-03-30 21:01:00
 description: What common AI benchmarking discourse misses.
 tags: evaluations quantiles
 categories: blog-posts
