@@ -9,7 +9,7 @@ profile:
   image: newme.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>MIT </p>
+    <p> </p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
