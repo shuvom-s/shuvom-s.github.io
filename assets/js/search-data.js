@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-reading-list",
+        },{id: "post-revenge-of-the-worst-case",
+      
+        title: "Revenge of the Worst Case",
+      
+      description: "What common AI benchmarking discourse misses.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/revenge-of-the-worst-case/";
+        
+      },
+    },{id: "post-reading-list",
       
         title: "Reading List",
       
@@ -25,17 +36,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2026/reading-list/";
-        
-      },
-    },{id: "post-revenge-of-the-worst-case",
-      
-        title: "Revenge of the Worst Case",
-      
-      description: "What common AI benchmarking discourse misses.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/revenge-of-the-worst-case/";
         
       },
     },{id: "post-measuring-entropy",
