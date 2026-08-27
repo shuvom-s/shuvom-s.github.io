@@ -38,7 +38,7 @@ I am also especially interested in applications to societally-impactful problems
 Prior to my PhD, I studied CS and Statistics at Harvard. I enjoy writing, and have written/blogged about [fellowship applications](https://shuvom-s.github.io/blog/2024/advice-on-applying-to-fellowships/), [biomedical data privacy](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf), [AI evals](https://shuvom.substack.com/p/revenge-of-the-worst-case), and [old papers](https://shuvom-s.github.io/blog/2025/measuring-entropy/), among other things.
 
 Quick links:
-* [CV](/assets/pdf/cv_apr26.pdf) (includes full publication list)
+* [CV](/assets/pdf/cv_jul26.pdf) (includes full publication list)
 * [LinkedIn](https://www.linkedin.com/in/shuvom-sadhuka-004b31159/)
 * [Google Scholar](https://scholar.google.com/citations?user=oFS9iRAAAAAJ&hl=en&oi=ao)
 * [Blog](/blog)
