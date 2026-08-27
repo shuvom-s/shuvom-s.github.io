@@ -43,7 +43,6 @@ Quick links:
 * [Google Scholar](https://scholar.google.com/citations?user=oFS9iRAAAAAJ&hl=en&oi=ao)
 * [Blog](/blog)
 * [My music taste](https://songembeddings.netlify.app/)
-* 
 
 <!-- Broadly, I am interested in reliable ML, with specific interests in evaluation, uncertainty quantification, and applications to biomedical problems. To me, evaluation is a two-way street: -->
 
