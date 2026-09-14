@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-revenge-of-the-worst-case",
+        },{id: "post-who-are-we-aligning-to",
+      
+        title: "Who are we aligning to?",
+      
+      description: "Alignment datasets are heavily imbalanced.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/who-are-we-aligning-to/";
+        
+      },
+    },{id: "post-revenge-of-the-worst-case",
       
         title: "Revenge of the Worst Case",
       
