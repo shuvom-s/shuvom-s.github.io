@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who are we aligning to?
-date: 2026-03-30 21:01:00
+date: 2026-09-13 21:01:00
 description: Alignment datasets are heavily imbalanced.
 tags: evaluations alignment
 categories: blog-posts
