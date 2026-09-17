@@ -28,14 +28,14 @@ latest_posts:
 
 I am a PhD student at MIT CSAIL. I am grateful to be supported by the [Hertz Fellowship](https://www.hertzfoundation.org/hertz-fellowship/) and [NSF GRFP](https://www.nsfgrfp.org/) and to be advised by Bonnie Berger.
 
-I am interested in building reliable AI systems, especially during evaluation. Some representative projects include:
+I am interested in building reliable, safe, and aligned AI systems. I am particularly interested in evaluation. Some representative projects include:
 
 1. [E-valuator](https://arxiv.org/abs/2512.03109): we built a statistical method (using sequential hypothesis testing) to stop agent trajectories early when the agent is incorrect.
 2. [SSME](https://papers.neurips.cc/paper_files/paper/2025/file/2c0e78cc177dfeca260ef990a8c99209-Paper-Conference.pdf): we built a method to include both labeled and unlabeled samples during (simultaneous) evaluation of multiple ML models.
 
-I am also especially interested in applications to societally-impactful problems such as healthcare. During my PhD, I have interned at Abridge on AI evals research with [Alex Chouldechova](https://scholar.google.com/citations?user=uoDW9hkAAAAJ&hl=en) and [Michael Oberst](https://www.michaelkoberst.com/) and at Genentech on early stopping of agents with [Hanchen Wang](https://www.hanchenw.com/). 
+I am also especially interested in applications to societally-impactful problems such as healthcare. During my PhD, I have interned at Abridge on clinical AI evals research with [Alex Chouldechova](https://scholar.google.com/citations?user=uoDW9hkAAAAJ&hl=en) and [Michael Oberst](https://www.michaelkoberst.com/) and at Genentech on early stopping of agents with [Hanchen Wang](https://www.hanchenw.com/). 
 
-Prior to my PhD, I studied CS and Statistics at Harvard. I enjoy writing, and have written/blogged about [fellowship applications](https://shuvom-s.github.io/blog/2024/advice-on-applying-to-fellowships/), [biomedical data privacy](https://computing.mit.edu/wp-content/uploads/2023/06/Overcoming.pdf), [AI evals](https://shuvom.substack.com/p/revenge-of-the-worst-case), and [old papers](https://shuvom-s.github.io/blog/2025/measuring-entropy/), among other things.
+Prior to my PhD, I studied CS and Statistics at Harvard. I enjoy writing, and have written/blogged about [fellowship applications](https://shuvom-s.github.io/blog/2024/advice-on-applying-to-fellowships/), [human preference datasets](https://shuvom.substack.com/p/who-are-we-aligning-to), [AI evals](https://shuvom.substack.com/p/revenge-of-the-worst-case) and [old papers](https://shuvom-s.github.io/blog/2025/measuring-entropy/), among other things.
 
 Quick links:
 * [CV](/assets/pdf/cv_jul26.pdf) (includes full publication list)
