@@ -6,7 +6,7 @@ description: Alignment datasets are heavily imbalanced.
 tags: evaluations alignment
 categories: blog-posts
 giscus_comments: true
-thumbnail: assets/img/alignmnt.webp
+thumbnail: assets/img/alignment.webp
 featured: true
 ---
 
