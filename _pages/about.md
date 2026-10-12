@@ -41,8 +41,8 @@ Quick links:
 * [CV](/assets/pdf/cv_jul26.pdf) (includes full publication list)
 * [LinkedIn](https://www.linkedin.com/in/shuvom-sadhuka-004b31159/)
 * [Google Scholar](https://scholar.google.com/citations?user=oFS9iRAAAAAJ&hl=en&oi=ao)
-* [Blog](/blog)
-* [My music taste](https://songembeddings.netlify.app/)
+* [Substack](https://substack.com/@shuvomsadhuka)
+* [Older blog posts](/blog)
 
 <!-- Broadly, I am interested in reliable ML, with specific interests in evaluation, uncertainty quantification, and applications to biomedical problems. To me, evaluation is a two-way street: -->
 
